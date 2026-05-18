@@ -1,0 +1,12 @@
+# core
+streamlit
+numpy
+pillow
+opencv-python
+
+# tensorflow - use a release that supports Python 3.13 on Streamlit Cloud
+tensorflow-cpu==2.20.0
+
+# optional: for plotting / utils
+matplotlib
+scikit-learn
